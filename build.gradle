@@ -23,7 +23,7 @@ dependencies {
 
 scmVersion {
     tag {
-        prefix = 'whistlepost-scripting-liquid-'
+        prefix = 'whistlepost-scripting-groovy-'
     }
     versionCreator 'versionWithBranch'
     branchVersionCreator = ['main': 'simple']
